@@ -1,0 +1,19 @@
+Solicitud registrada: SOL-1
+Solicitud registrada: SOL-2
+Solicitud registrada: SOL-3
+Prioridad invalida, se usa media por defecto
+ERROR: nombre vacio
+Estado actualizado para SOL-1 -> en_progreso
+Responsable asignado a SOL-2
+Estado actualizado para SOL-3 -> resuelta
+--- Busqueda por area Alumnado ---
+SOL-1 | Juana Perez | en_progreso | alta
+--- Acceso directo a la lista interna (mala practica) ---
+Cantidad total en memoria: 3
+===== REPORTE DE SOLICITUDES =====
+Total: 3
+Pendientes: 1
+En progreso: 1
+Resueltas: 1
+Rechazadas: 0
+===================================

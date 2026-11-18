@@ -1,0 +1,16 @@
+Solicitud registrada: SOL-1
+Solicitud registrada: SOL-2
+Solicitud registrada: SOL-3
+ERROR: nombre vacio
+Estado actualizado para SOL-1 -> EN_PROGRESO
+Responsable asignado a SOL-2
+Estado actualizado para SOL-3 -> RESUELTA
+--- Busqueda por area Alumnado ---
+SOL-1 | Juana Perez | EN_PROGRESO | ALTA
+===== REPORTE DE SOLICITUDES =====
+Total: 3
+Pendientes: 1
+En progreso: 1
+Resueltas: 1
+Rechazadas: 0
+===================================

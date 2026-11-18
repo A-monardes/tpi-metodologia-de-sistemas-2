@@ -1,0 +1,16 @@
+OK    ValidadorSolicitudTest.testValidarDatosCorrectosNoLanza
+OK    ValidadorSolicitudTest.testValidarNombreVacioLanzaExcepcion
+OK    ValidadorSolicitudTest.testValidarNombreNuloLanzaExcepcion
+OK    ValidadorSolicitudTest.testValidarLegajoVacioLanzaExcepcion
+OK    SolicitudServiceTest.testRegistrarSolicitudValidaQuedaPendienteYGuardada
+OK    SolicitudServiceTest.testRegistrarSolicitudConNombreVacioLanzaExcepcionYNoPersiste
+OK    SolicitudServiceTest.testIdsSeGeneranDeFormaIncremental
+OK    SolicitudServiceTest.testCambiarEstadoDeSolicitudExistente
+OK    SolicitudServiceTest.testCambiarEstadoDeSolicitudInexistenteLanzaExcepcion
+OK    SolicitudServiceTest.testAsignarResponsableActualizaAreaYResponsable
+OK    SolicitudServiceTest.testBuscarSolicitudesPorAreaFiltraCorrectamente
+OK    SolicitudServiceTest.testRegistrarPropagaExcepcionDePersistenciaSinOcultarla
+OK    ReporteServiceTest.testGenerarConListaVaciaDaTodosLosTotalesEnCero
+OK    ReporteServiceTest.testGenerarCuentaCadaEstadoPorSeparado
+-----------------------------------------
+Total: 14  OK: 14  Fallos: 0
